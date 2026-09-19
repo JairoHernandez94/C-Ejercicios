@@ -1,9 +1,9 @@
-\\ ejercicio 1 Escribe un programa que lea una cadena y la imprima al revés.
+// ejercicio 1 Escribe un programa que lea una cadena y la imprima al revés.
 
 #include <stdio.h>
 #include <string.h>
 
-int main() { \\Es la función principal del programa
+int main() { //Es la función principal del programa
     char cadena[100];
 
     printf("Ingrese una cadena: ");

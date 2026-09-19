@@ -1,5 +1,4 @@
-\\ ejercicio 2 Escribe un programa que lea una cadena y la imprima al revés.
-
+// ejercicio 2 Escribe un programa que lea una cadena y la imprima al revés.
 #include <ctype.h>
 #include <stdio.h>
 #include <string.h>

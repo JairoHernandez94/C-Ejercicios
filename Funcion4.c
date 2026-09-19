@@ -1,6 +1,5 @@
 
-\\ ejercicio 4 Escribe un programa que concatene dos cadenas ingresadas por el usuario.
-
+// ejercicio 4 Escribe un programa que concatene dos cadenas ingresadas por el usuario.
 #include <ctype.h>
 #include <stdio.h>
 #include <string.h>

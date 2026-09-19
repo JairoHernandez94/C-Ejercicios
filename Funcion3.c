@@ -1,10 +1,8 @@
 
-\\ ejercicio 3 Realiza un programa que compare dos cadenas y diga si son iguales o diferentes.
-
+// ejercicio 3 Realiza un programa que compare dos cadenas y diga si son iguales o diferentes.
 #include <ctype.h>
 #include <stdio.h>
 #include <string.h>
-
 
 int main() {
     char cadena1[100], cadena2[100];

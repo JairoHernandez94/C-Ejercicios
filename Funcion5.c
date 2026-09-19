@@ -1,6 +1,5 @@
 
-\\ ejercicio 5 Haz un programa que cuente cuántas palabras hay en una frase.
-
+// ejercicio 5 Haz un programa que cuente cuántas palabras hay en una frase.
 #include <ctype.h>
 #include <stdio.h>
 #include <string.h>
